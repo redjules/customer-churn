@@ -5,8 +5,8 @@
 In this project, we will predict customers that will leave a business. This is so important because it's much more expensive to attract new clients vs trying to retain an old one. 
 
 We will import the data from a CSV file. We will split the data to prevent data snooping bias. Explore why customers might leave doing a faster EDA with Pandas profiling, inspect target classes, state, area code, and promotions offered ...
-We will preprocess the data handling missing area codes, working with missing voice mail plans, imputing missing Eve.
-Minutes... We will do some feature engineering for Churn: creating target and feature values. We will build classification models and machine learning pipelines (SGDClassifier, RidgeClassifier, RandomForestClassifierm GradientBoostingClassifier, XGBClassifier). We will evaluate the models and make predictions. Save Models and Encoder, test scoring, and finally create a Customer Churn Streamlit App.
+We will preprocess the data handling missing area codes, working with missing voice mail plans ...
+Minutes... We will do some feature engineering for Churn: creating target and feature values. We will build classification models and machine learning pipelines (SGDClassifier, RidgeClassifier, RandomForestClassifierm, GradientBoostingClassifier, and XGBClassifier). We will evaluate the models and make predictions. Save Models and Encoder, test scoring, and finally create a Customer Churn Streamlit App.
 
 # Snapshot
 
